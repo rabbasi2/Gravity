@@ -11,8 +11,7 @@ email: rabbasi@live.unc.edu
 description: "All about ME!!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+github_username:  rabbasi2
 
 # Build settings
 markdown: kramdown
