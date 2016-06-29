@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 
-<h2 class="light blue">Rabia Abbasi</h2>
+<h2>Rabia Abbasi</h2>
 <p>A little History about me.</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
