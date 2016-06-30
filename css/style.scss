@@ -15,12 +15,11 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-//$background-color: #ff9999;
-$background-color: #000000;
-//$brand-color:      #2a7ae2;
-$brand-color: #c61331;
+$background-color: #ff9999;
+$brand-color:      #2a7ae2;
+//$brand-color: #c61331;
 
-$grey-color: #828282;
+$grey-color: #000000;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -420,7 +419,7 @@ pre {
   text-transform: lowercase;
 }
 .page-link {
-  color: rgb(170, 170, 170);
+  color: rgb(198, 19, 49);
 }
 .site-nav {
   .page-link {
