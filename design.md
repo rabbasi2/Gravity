@@ -6,15 +6,16 @@ category: "education"
 ---
 
 <p> <div class="manual-content">
-<Strong>University of North Carolina at Chapel Hill</Strong>
+![Alt](http://www.unc.edu/files/2012/06/ccm1_017934.jpg#right)
+[<h3><Strong>University of North Carolina at Chapel Hill</Strong></h3>](http://www.unc.edu)
 <p>B.S., Computer Science, expected May 2017 <br>
   *Covenant Scholar*</p>
 
-<Strong>Durham Technical Community College</Strong>
+[<h3><Strong>Durham Technical Community College</Strong></h3>](http://durhamtech.edu)
 <p>Associates in Science, May 2015<br>
 GPA 3.755<br>
 •	Dean's List<br>
 •	Phi Theta Kappa Member <br>
 </p>
-</p>
 </div>
+</p>
