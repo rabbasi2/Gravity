@@ -8,23 +8,29 @@ permalink: /experience/
   <p>
  <Strong>University of North Carolina</Strong>, Chapel Hill, NC <br>
   <span class="small-site-title">Tech Assitant</span>,August 2015-May 2016 <br>
- *Aid customers in technical computer issues<br>
- *Maintaining, organizing and distributing some of the media equipment<br>
- *Assist professor in improving their course lectures by recording and edit foreign language classes using final cut pro
+  <ul>
+  <li>Aid customers in technical computer issues </li><br>
+<li>Maintaining, organizing and distributing some of the media equipment</li><br>
+ <li>Assist professor in improving their course lectures by recording and edit foreign language classes using final cut pro</div>li>
+ </ul>
  </p>
  <p>
  <Strong>Durham Technical Community College</Strong> <br>
  <span class="small-site-title">Lab Monitor and Tutor</span>, August 2014 - May 2015 <br>
-*Monitor computer users to ensure that they are authorized for access.<br>
-*Provide general help with computer operation and software.<br>
-*Check lab supplies (printer toner, ribbons, ink cartridges, paper)<br>
-*Help students with math questions.
+ <ul>
+ <li>Monitor computer users to ensure that they are authorized for access.</li><br>
+ <li>Provide general help with computer operation and software.</li><br>
+ <li>Check lab supplies (printer toner, ribbons, ink cartridges, paper)</li><br>
+ <li>Help students with math questions.</li>
+</ul>
  </p>
  <p>
  <Strong>Subway</Strong><br>
  <span class="small-site-title">Cashier</span>,December 2013 - June 2014 <br>
-*Greet guests in a cheerful manner <br>
-*Clean and maintain the customer and service areas and equipment.<br>
-*Performs Cash-In Procedure- accounting for all forms of money, bread, etc.
+ <ul>
+ <li>Greet guests in a cheerful manner </li><br>
+ <li>Clean and maintain the customer and service areas and equipment.</li><br>
+ <li>Performs Cash-In Procedure- accounting for all forms of money, bread, etc.</li>
+</ul>
  </p>
 </div>
