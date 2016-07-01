@@ -10,8 +10,7 @@ category: "education"
 <a href="http://www.unc.edu/"><h3><Strong>University of North Carolina at Chapel Hill</Strong></h3></a>
 <p>B.S., Computer Science, expected May 2017 <br>
   *Covenant Scholar*</p>
-
-[<h3><Strong>Durham Technical Community College</Strong></h3>](http://durhamtech.edu)
+ <a href="http://durhamtech.edu"><h3><Strong>Durham Technical Community College</Strong></h3></a>
 <p>Associates in Science, May 2015<br>
 GPA 3.755<br>
 •	Dean's List<br>
