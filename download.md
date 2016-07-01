@@ -9,9 +9,9 @@ permalink: /experience/
  <Strong>University of North Carolina</Strong>, Chapel Hill, NC <br>
   <span class="small-site-title">Tech Assitant</span>,August 2015-May 2016 <br>
   <ul>
-  <li>Aid customers in technical computer issues </li><br>
-<li>Maintaining, organizing and distributing some of the media equipment</li><br>
- <li>Assist professor in improving their course lectures by recording and edit foreign language classes using final cut pro</div>li>
+<li>Aid customers in technical computer issues </li><br>
+<li>Maintaining,organizing and distributing some of the media equipment</li><br>
+<li>Assist professor in improving their course lectures by recording and edit foreign language classes using final cut pro</li>
  </ul>
  </p>
  <p>
