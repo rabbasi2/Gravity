@@ -6,8 +6,8 @@ category: "education"
 ---
 
 <p> <div class="manual-content">
-![UNC](http://www.unc.edu/files/2012/06/ccm1_017934.jpg) <br>
-[<h3><Strong>University of North Carolina at Chapel Hill</Strong></h3>](http://www.unc.edu/)
+<img src="/http://www.unc.edu/files/2012/06/ccm1_017934.jpg" alt="UNC"/>
+<a href="http://www.unc.edu/"><h3><Strong>University of North Carolina at Chapel Hill</Strong></h3></a>
 <p>B.S., Computer Science, expected May 2017 <br>
   *Covenant Scholar*</p>
 
