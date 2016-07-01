@@ -18,3 +18,4 @@ GPA 3.755
 •	Dean's List
 •	Phi Theta Kappa Member 
 </p>
+</div>
