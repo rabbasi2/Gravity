@@ -2,7 +2,7 @@
 layout: post
 title:  "First Website"
 author: "Rabia Abbasi"
----
+--- 
 
 The second assigment for INLS 161 was to create a website. 
 I used CSS, HTML and Markdown to create this site. It was confusing switching back and forth beteween them. 
