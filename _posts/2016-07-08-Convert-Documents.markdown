@@ -16,10 +16,11 @@ Below I have the essay linked in different formats. I used pandoc to convert the
 Also, I installed texlive because without it i Won't be able to comvert markdown to pdf format.
 
 ![Pandoc](http://i.memecaptain.com/gend_images/JduwBA.jpg)
+
 Source file and converted documents:
 
-[Orginal Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.md)
-[HTML Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.html)
-[DOCX Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.docx)
-[ODT format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.odt)
-[PDF Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.pdf)
+- [Orginal Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.md)
+- [HTML Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.html)
+- [DOCX Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.docx)
+- [ODT format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.odt)
+- [PDF Format](https://github.com/rabbasi2/assignment-3-convert-some-documents-rabbasi2/blob/master/Witchcraft.pdf)
