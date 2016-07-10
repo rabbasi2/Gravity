@@ -12,10 +12,11 @@ the Soweto Society and its reraltion to witchcraft.The paper is divided in to th
 dimensions vs Witchcraft in Soweato.The second part focuses on cause of witchcraft and its orgin. The last is about 
 witchcraft vs the government.
 
+![Pandoc](http://i.memecaptain.com/gend_images/JduwBA.jpg)
+
 Below I have the essay linked in different formats. I used pandoc to convert the essay from markdown to HTML, DOCX, ODT and PDF. 
 Also, I installed texlive because without it i Won't be able to comvert markdown to pdf format.
 
-![Pandoc](http://i.memecaptain.com/gend_images/JduwBA.jpg)
 
 Source file and converted documents:
 
