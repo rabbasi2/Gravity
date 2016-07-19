@@ -8,4 +8,4 @@ We used script to read the data and store it in MYSQL. Everything went smoothly 
 becasue the passwords didn't match.To solve this issue we aske the user for their mysql password and store that when
 running mysql. [Here's the link](https://github.com/rabbasi2/task-5-database-interface/tree/archive).
 
-Hope you like it !! :) 
+Hope you like it !!
