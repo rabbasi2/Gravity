@@ -10,3 +10,4 @@ with the cat because their number were decreaseing. The mice held a meeting and 
  [Click here to check out the ending](https://rabbasi2.github.io/task-6-team-1/)
  
  Enjoy the reveal.js presentaion! 
+:smile:
